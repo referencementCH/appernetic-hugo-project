@@ -1,9 +1,11 @@
 ---
 title: "contrôle parental, virtualisation et logiciel libre"
-date: 2018-01-28T14:03:34Z
+date: 2018-01-28T13:06:33Z
+draft: true
 ---
 
-# contrôle parental, virtualisation et logiciel libre
+
+# contrôle parental, virtualisation et logiciel libre
 
 Le monde de l’éducation utilise depuis longtemps le logiciel libre pour assurer le filtrage de l’internet dans les établissements scolaires.
 
